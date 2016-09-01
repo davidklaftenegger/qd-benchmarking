@@ -1,0 +1,4 @@
+#ifndef COMMON_LOCK_CONSTANTS_H
+#define COMMON_LOCK_CONSTANTS_H
+
+#endif
