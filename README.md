@@ -1,5 +1,5 @@
 # qd-benchmarking
-Queue Delegation Locking benchmarking codes
+This is a benchmarking repository for [Queue Delegation Locking](https://www.it.uu.se/research/group/languages/software/qd_lock_lib).
 
 The main queue delegation lock implementation is in the directory `qd_library`
 
